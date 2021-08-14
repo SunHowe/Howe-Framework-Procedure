@@ -1,0 +1,17 @@
+{
+    "name": "com.howegame.framework.procedure",
+    "author": "SunHowe",
+    "displayName": "HoweFramework Procedure",
+    "description": "Provide manager of game procedures.",
+    "unity": "2020.3",
+    "version": "2021.8.12",
+    "keywords": [
+        "howegame",
+        "howegameprocedure"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SunHowe/Howe-Framework-Procedure.git"
+    }
+}

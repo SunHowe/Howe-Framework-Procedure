@@ -1,0 +1,17 @@
+{
+    "name": "HoweFramework.Procedure",
+    "rootNamespace": "HoweFramework.Procedure",
+    "references": [
+        "GUID:5ff63b3b2f00ae149848dc586bdd5d5b",
+        "GUID:145f3af32b4a1d046a0fa6cfe9b7db60"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
