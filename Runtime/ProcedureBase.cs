@@ -1,7 +1,11 @@
-﻿namespace HoweFramework.Procedure
+﻿using HoweFramework.Fsm.Implements;
+
+namespace HoweFramework.Procedure
 {
-    public class ProcedureBase
+    /// <summary>
+    /// 流程基类
+    /// </summary>
+    public abstract class ProcedureBase : FsmState
     {
-        
     }
 }
